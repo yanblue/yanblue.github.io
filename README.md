@@ -1,2 +1,2 @@
 # yanblue.github.io
-hello world
+博客实习菜园
